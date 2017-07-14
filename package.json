@@ -1,6 +1,6 @@
 {
   "name": "installed-package",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Run your tests against an installed version of your package",
   "license": "BSD-3-Clause",
   "main": "lib/installed-package.js",
