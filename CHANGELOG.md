@@ -1,3 +1,9 @@
+### 1.0.2
+
+* Apply latest nlm generator - **[@markowsiak](https://github.com/markowsiak)** [#2](https://github.com/groupon/installed-package/pull/2)
+  - [`09e389d`](https://github.com/groupon/installed-package/commit/09e389d3a889ad52d36d1c3c2ef6d311628b1ffb) **chore:** Apply latest nlm generator
+
+
 ### 1.0.1
 
 * Update node and dependencies - **[@jkrems](https://github.com/jkrems)** [#1](https://github.com/groupon/installed-package/pull/1)
